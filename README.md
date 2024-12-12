@@ -19,16 +19,8 @@ You’ll receive links and references for each question for more in-depth learni
 
 # Example Questions:
 1. What is Python used for? 🐍
-A. Web Development
-B. Data Science
-C. Machine Learning
-D. All of the above ✔️
-
 2. Which algorithm is commonly used for classification? 📊
-A. Linear Regression
-B. Decision Trees ✔️
-C. K-means Clustering
-D. Random Forest
+3. What is NLP? 🧠
 
 # Why is this quiz so special? 🌟
 1. Learning in real-time: The model will train as you take the quiz, improving its predictions based on your answers!
