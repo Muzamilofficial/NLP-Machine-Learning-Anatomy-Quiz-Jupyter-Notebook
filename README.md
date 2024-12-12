@@ -36,3 +36,10 @@ You’ll receive links and references for each question for more in-depth learni
 # Ready to test your knowledge? 🔥
 Start answering the questions now and train the ML model while learning at the same time! 📈
 
+# 📸 Some Screenshots of the Project 🖼️✨
+![image](https://github.com/user-attachments/assets/93119bbc-6ab9-441f-9aa8-a50ee0d187d8)
+![image](https://github.com/user-attachments/assets/9e1025df-18bc-4a7b-8382-7e852d54e413)
+![image](https://github.com/user-attachments/assets/d24c54b7-c6b6-4e69-a395-a36b9ff873d7)
+![image](https://github.com/user-attachments/assets/e69bd4d7-c027-4351-9fb5-3c9c81bbeff7)
+![image](https://github.com/user-attachments/assets/b2ee2e18-70da-48d9-96fb-dbeb835d2280)
+![image](https://github.com/user-attachments/assets/05d40cc3-f0db-4321-8a2c-d8dc20e456be)
