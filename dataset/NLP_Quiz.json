@@ -1,0 +1,244 @@
+{
+    "questions": [
+        {
+            "question": "What is the primary function of the kidneys?",
+            "options": [
+                "Filter waste from blood",
+                "Produce insulin",
+                "Store bile",
+                "Control breathing"
+            ],
+            "correctAnswer": "Filter waste from blood",
+            "link": "https://www.wikipedia.org/wiki/What+is+the+primary+function+of+the+kidneys?",
+            "explanation": "This question relates to www.wikipedia.org. The question tests your understanding of key concepts in this area."
+        },
+        {
+            "question": "Which organ is part of the urinary system?",
+            "options": [
+                "Liver",
+                "Bladder",
+                "Stomach",
+                "Lungs"
+            ],
+            "correctAnswer": "Bladder",
+            "link": "https://www.wikipedia.org/wiki/Which+organ+is+part+of+the+urinary+system?",
+            "explanation": "This question relates to www.wikipedia.org. The question tests your understanding of key concepts in this area."
+        },
+        {
+            "question": "What is the primary role of the digestive system?",
+            "options": [
+                "Pump blood",
+                "Break down food",
+                "Produce hormones",
+                "Filter toxins"
+            ],
+            "correctAnswer": "Break down food",
+            "link": "https://www.wikipedia.org/wiki/What+is+the+primary+role+of+the+digestive+system?",
+            "explanation": "This question relates to www.wikipedia.org. The question tests your understanding of key concepts in this area."
+        },
+        {
+            "question": "Which enzyme breaks down proteins in the stomach?",
+            "options": [
+                "Amylase",
+                "Pepsin",
+                "Lipase",
+                "Trypsin"
+            ],
+            "correctAnswer": "Pepsin",
+            "link": "https://www.wikipedia.org/wiki/Which+enzyme+breaks+down+proteins+in+the+stomach?",
+            "explanation": "This question relates to www.wikipedia.org. The question tests your understanding of key concepts in this area."
+        },
+        {
+            "question": "Which part of the digestive system absorbs nutrients?",
+            "options": [
+                "Esophagus",
+                "Stomach",
+                "Small intestine",
+                "Large intestine"
+            ],
+            "correctAnswer": "Small intestine",
+            "link": "https://www.wikipedia.org/wiki/Which+part+of+the+digestive+system+absorbs+nutrients?",
+            "explanation": "This question relates to www.wikipedia.org. The question tests your understanding of key concepts in this area."
+        },
+        {
+            "question": "What connects the kidneys to the bladder?",
+            "options": [
+                "Urethra",
+                "Ureter",
+                "Vein",
+                "Artery"
+            ],
+            "correctAnswer": "Ureter",
+            "link": "https://www.wikipedia.org/wiki/What+connects+the+kidneys+to+the+bladder?",
+            "explanation": "This question relates to www.wikipedia.org. The question tests your understanding of key concepts in this area."
+        },
+        {
+            "question": "What is bile's role in digestion?",
+            "options": [
+                "Breaks down fats",
+                "Neutralizes acid",
+                "Produces enzymes",
+                "Absorbs water"
+            ],
+            "correctAnswer": "Breaks down fats",
+            "link": "https://www.wikipedia.org/wiki/What+is+bile's+role+in+digestion?",
+            "explanation": "This question relates to www.wikipedia.org. The question tests your understanding of key concepts in this area."
+        },
+        {
+            "question": "How much urine does a healthy adult produce daily?",
+            "options": [
+                "0.5 liters",
+                "1-2 liters",
+                "3 liters",
+                "4-5 liters"
+            ],
+            "correctAnswer": "1-2 liters",
+            "link": "https://www.wikipedia.org/wiki/How+much+urine+does+a+healthy+adult+produce+daily?",
+            "explanation": "This question relates to www.wikipedia.org. The question tests your understanding of key concepts in this area."
+        },
+        {
+            "question": "What is the role of the large intestine?",
+            "options": [
+                "Absorbs nutrients",
+                "Stores bile",
+                "Absorbs water",
+                "Breaks down proteins"
+            ],
+            "correctAnswer": "Absorbs water",
+            "link": "https://www.wikipedia.org/wiki/What+is+the+role+of+the+large+intestine?",
+            "explanation": "This question relates to www.wikipedia.org. The question tests your understanding of key concepts in this area."
+        },
+        {
+            "question": "What is the medical term for urination?",
+            "options": [
+                "Defecation",
+                "Micturition",
+                "Excretion",
+                "Filtration"
+            ],
+            "correctAnswer": "Micturition",
+            "link": "https://www.wikipedia.org/wiki/What+is+the+medical+term+for+urination?",
+            "explanation": "This question relates to www.wikipedia.org. The question tests your understanding of key concepts in this area."
+        },
+        {
+            "question": "Which organ stores bile?",
+            "options": [
+                "Liver",
+                "Gallbladder",
+                "Pancreas",
+                "Kidney"
+            ],
+            "correctAnswer": "Gallbladder",
+            "link": "https://www.wikipedia.org/wiki/Which+organ+stores+bile?",
+            "explanation": "This question relates to www.wikipedia.org. The question tests your understanding of key concepts in this area."
+        },
+        {
+            "question": "What is the primary function of the pancreas?",
+            "options": [
+                "Store bile",
+                "Regulate blood sugar",
+                "Filter blood",
+                "Absorb water"
+            ],
+            "correctAnswer": "Regulate blood sugar",
+            "link": "https://www.wikipedia.org/wiki/What+is+the+primary+function+of+the+pancreas?",
+            "explanation": "This question relates to www.wikipedia.org. The question tests your understanding of key concepts in this area."
+        },
+        {
+            "question": "Which organ is part of both the digestive and endocrine systems?",
+            "options": [
+                "Liver",
+                "Stomach",
+                "Pancreas",
+                "Kidneys"
+            ],
+            "correctAnswer": "Pancreas",
+            "link": "https://www.mayoclinic.org/search/search-results?q=Which+organ+is+part+of+both+the+digestive+and+endocrine+systems?",
+            "explanation": "This question relates to www.mayoclinic.org. The question tests your understanding of key concepts in this area."
+        },
+        {
+            "question": "What causes kidney stones?",
+            "options": [
+                "High cholesterol",
+                "Calcium deposits",
+                "Dehydration",
+                "Excess sugar"
+            ],
+            "correctAnswer": "Calcium deposits",
+            "link": "https://www.wikipedia.org/wiki/What+causes+kidney+stones?",
+            "explanation": "This question relates to www.wikipedia.org. The question tests your understanding of key concepts in this area."
+        },
+        {
+            "question": "What is the primary waste product in urine?",
+            "options": [
+                "Carbon dioxide",
+                "Urea",
+                "Ammonia",
+                "Lactic acid"
+            ],
+            "correctAnswer": "Urea",
+            "link": "https://www.wikipedia.org/wiki/What+is+the+primary+waste+product+in+urine?",
+            "explanation": "This question relates to www.wikipedia.org. The question tests your understanding of key concepts in this area."
+        },
+        {
+            "question": "Which organ is responsible for filtering blood in the human body?",
+            "options": [
+                "Liver",
+                "Heart",
+                "Kidney",
+                "Lungs"
+            ],
+            "correctAnswer": "Kidney",
+            "link": "https://www.wikipedia.org/wiki/Which+organ+is+responsible+for+filtering+blood+in+the+human+body?",
+            "explanation": "This question relates to www.wikipedia.org. The question tests your understanding of key concepts in this area."
+        },
+        {
+            "question": "Which part of the brain regulates balance and coordination?",
+            "options": [
+                "Cerebrum",
+                "Cerebellum",
+                "Medulla",
+                "Thalamus"
+            ],
+            "correctAnswer": "Cerebellum",
+            "link": "https://www.wikipedia.org/wiki/Which+part+of+the+brain+regulates+balance+and+coordination?",
+            "explanation": "This question relates to www.wikipedia.org. The question tests your understanding of key concepts in this area."
+        },
+        {
+            "question": "What is the smallest structural unit of the human body?",
+            "options": [
+                "Cell",
+                "Tissue",
+                "Organ",
+                "Organ system"
+            ],
+            "correctAnswer": "Cell",
+            "link": "https://www.mayoclinic.org/search/search-results?q=What+is+the+smallest+structural+unit+of+the+human+body?",
+            "explanation": "This question relates to www.mayoclinic.org. The question tests your understanding of key concepts in this area."
+        },
+        {
+            "question": "What is the primary function of red blood cells?",
+            "options": [
+                "Fight infections",
+                "Transport oxygen",
+                "Clot blood",
+                "Store nutrients"
+            ],
+            "correctAnswer": "Transport oxygen",
+            "link": "https://www.wikipedia.org/wiki/What+is+the+primary+function+of+red+blood+cells?",
+            "explanation": "This question relates to www.wikipedia.org. The question tests your understanding of key concepts in this area."
+        },
+        {
+            "question": "Which hormone is responsible for regulating blood sugar levels?",
+            "options": [
+                "Insulin",
+                "Adrenaline",
+                "Thyroxine",
+                "Estrogen"
+            ],
+            "correctAnswer": "Insulin",
+            "link": "https://www.wikipedia.org/wiki/Which+hormone+is+responsible+for+regulating+blood+sugar+levels?",
+            "explanation": "This question relates to www.wikipedia.org. The question tests your understanding of key concepts in this area."
+        }
+    ]
+}
